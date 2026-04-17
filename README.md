@@ -23,3 +23,5 @@ Reach out to me **layanalghamdi.mohammed@gmail.com**
 
 </details>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwll8&show_icons=true&theme=radical)
+
