@@ -1,8 +1,8 @@
 ## Hi, I’m Layan 👋
 
-I’m an MIS graduate exploring **cloud computing, data analytics, and DevOps**.
+I’m a MIS graduate exploring **cloud computing, data analytics, and DevOps**.
 
-🔹 AWS • Docker • Python  
 🔹 Cloud | Data | Automation
+🔹 AWS • GCP • Terraform (Iac) • Docker • Python  
 
 Documenting my progress here on GitHub.
